@@ -9,3 +9,5 @@ int division(int a, int b);
 int factoriel(int nb);
 
 int exposant(int nb, int exp);
+
+int NombrePremier(int nb);
