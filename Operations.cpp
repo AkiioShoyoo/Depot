@@ -53,3 +53,12 @@ int exposant(int nb, int exp)
 >>>>>>> 63015530d6ec448dff9650e99f09626663f58eff
 	return resultat;
 }
+
+int NombrePremier(int nb)
+{
+	int resultat;
+
+	resultat = 2 + 2(nb!);
+
+	return resultat;
+}
