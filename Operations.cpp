@@ -42,7 +42,7 @@ int factoriel(int nb)
 	int resultat;
 	
 	resultat = nb*(n-1);
-	
+}	
 =======
 int exposant(int nb, int exp)
 {
