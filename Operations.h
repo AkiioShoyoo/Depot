@@ -10,5 +10,5 @@ int factoriel(int nb);
 
 int exposant(int nb, int exp);
 
-int distance(int x, int y);
+double distance(double x1, double y1, double x2, double y2);
 
