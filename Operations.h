@@ -9,3 +9,8 @@ int division(int a, int b);
 int factoriel(int nb);
 
 int exposant(int nb, int exp);
+
+int NombrePremier(int nb);
+
+double distance(double x1, double y1, double x2, double y2);
+
